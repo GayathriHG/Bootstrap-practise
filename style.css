@@ -1,0 +1,29 @@
+
+
+body{
+    background: #b2f752;
+    
+}
+
+    
+
+/*main-section*/
+h2{
+    color:blueviolet;
+    padding-left:30px;
+    
+}
+
+p{
+    font-weight:100px;
+    color:blue;
+    padding:10px;
+    margin-left:40px;
+}
+.main-section{
+padding-bottom:50px;
+}
+
+
+
+
